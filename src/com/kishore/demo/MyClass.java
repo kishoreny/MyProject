@@ -6,6 +6,8 @@ public class MyClass {
       System.out.println("Kishore");
       
       System.out.println("Sandhya");
+      
+      System.out.println("Sandhya");
 	}
 
 }
